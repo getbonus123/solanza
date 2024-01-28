@@ -33,7 +33,7 @@ function App() {
         <div className="section">
           <img className="sweetsolanza" alt="sweetsolanza" src={solanza} />
           <div className="socialBlock">
-            <a href="https://t.me/Sweetsolanza"><img alt="telegram" className="telegram social" src={telegram}/></a>
+            <a href="https://google.com/"><img alt="telegram" className="telegram social" src={telegram}/></a>
             <a href="https://twitter.com/sweetsolanza"><img alt="twitter" className="twitter social" src={twitter}/></a>
           </div>
           <a href="https://raydium.io/"><button className="button">
